@@ -61,7 +61,3 @@ The calibration values are specific to the camera and robot placement used durin
 Always operate the robot in a clear workspace with the emergency stop accessible.
 
 Author - Layan Barakat
-
-
-```text
-Add project documentation
